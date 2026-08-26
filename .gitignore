@@ -12,8 +12,6 @@ homebrew_export/
 homebrew/
 *.zip
 
-# Local tooling
-.codex/
-AGENTS.md
+# Local system files
 smoke
 Thumbs.db
