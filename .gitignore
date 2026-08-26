@@ -1,0 +1,19 @@
+# Build output
+build/
+*.o
+*.d
+*.elf
+*.dol
+*.map
+
+# Downloaded/vendor dependencies and exports
+external/
+homebrew_export/
+homebrew/
+*.zip
+
+# Local tooling
+.codex/
+AGENTS.md
+smoke
+Thumbs.db
